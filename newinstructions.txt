@@ -4,6 +4,12 @@ Second Line added for Second Commit
 
 Third Line added for the Third Commit
 
+<<<<<<< HEAD
+Third Line added for the Third Commit
+
+Fourth Line added for Bug Fix
+=======
 Fourth lined added for the Fourth Commit
 
 Fifth Line added for the First Pull request
+>>>>>>> master
