@@ -6,4 +6,4 @@ Third Line added for the Third Commit
 
 Adding a new line to the Features branch
 
-Adding another new line to the Features branch
+Adding another new line to the Features branches
