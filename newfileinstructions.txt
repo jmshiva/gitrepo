@@ -1,3 +1,5 @@
 I am Learning Git Merge without Conflicts
 
 This file added to feature bracnch - Commit one
+
+This file added to feature bracnch - Commit Two
