@@ -1,5 +1,5 @@
-I am Learning Git Merge without Conflicts
+I am Learning Git Merge with Conflicts
 
-This file added to feature bracnch - Commit one
+This file added to Main bracnch - Commit one
 
-This file added to feature bracnch - Commit Two
+This file added to Main bracnch - Commit Two
